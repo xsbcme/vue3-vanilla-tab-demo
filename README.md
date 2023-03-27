@@ -18,12 +18,12 @@
 
 ## 演示图
 
-![image-01](https://gitee.com/xsbcme/vue3-vanilla-tab-demo/raw/master/images/_1.png)
+![image-01](https://github.com/xsbcme/vue3-vanilla-tab-demo/blob/main/images/_1.png)
 
-![image-02](https://gitee.com/xsbcme/vue3-vanilla-tab-demo/raw/master/images/_2.png)
+![image-02](https://github.com/xsbcme/vue3-vanilla-tab-demo/blob/main/images/_2.png)
 
-![image-03](https://gitee.com/xsbcme/vue3-vanilla-tab-demo/raw/master/images/_3.png)
+![image-03](https://github.com/xsbcme/vue3-vanilla-tab-demo/blob/main/images/_3.png)
 
-![image-04](https://gitee.com/xsbcme/vue3-vanilla-tab-demo/raw/master/images/_4.png)
+![image-04](https://github.com/xsbcme/vue3-vanilla-tab-demo/blob/main/images/_4.png)
 
-![image-05](https://gitee.com/xsbcme/vue3-vanilla-tab-demo/raw/master/images/_5.png)
+![image-05](https://github.com/xsbcme/vue3-vanilla-tab-demo/blob/main/images/_5.png)
