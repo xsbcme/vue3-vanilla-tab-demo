@@ -12,12 +12,6 @@ import views from './views';
 import zhCN from 'ant-design-vue/es/locale/zh_CN';
 import Container from '@/layouts/container.vue';
 
-import 'dayjs/locale/zh-cn';
-import dayjs from 'dayjs';
-
-dayjs.locale('zh-cn');
-
-
 onMounted(() => {
   vanillaTab.initDynamicViews(views);
 });
